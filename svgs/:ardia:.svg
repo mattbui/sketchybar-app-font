@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <!-- Simplified trace of the current Ardia app icon: https://ardia.dev/press/ardia-app-icon.png -->
+  <g fill="#000" transform="translate(-2.586 -3.951) scale(0.02846)">
+    <path d="M155 767 C134 731 124 670 128 601 C130 511 174 438 246 407 C299 384 340 391 382 410 C445 440 498 503 550 520 C483 569 427 611 355 646 C274 686 196 706 155 767 Z"/><path d="M158 787 C202 730 282 711 362 672 C467 621 552 548 642 497 C708 459 768 440 822 473 C878 507 899 567 898 643 C898 712 894 766 867 808 C839 851 794 866 729 866 L291 866 C227 866 181 840 158 787 Z"/><circle cx="549" cy="354.5" r="100.5"/>
+  </g>
+</svg>
